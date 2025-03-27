@@ -1033,6 +1033,7 @@ input[type=number] {
 
 .footer-subscribe {
     position: relative;
+    height: var(--input-height);
 }
 
 .footer-subscribe:not(:last-child) {
